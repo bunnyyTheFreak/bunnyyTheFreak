@@ -1,4 +1,11 @@
 ### Hi there 👋
+**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/bunnyyTheFreak?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/bunnyy.devil/) works back in 2009 to becoming [Netowkrs Operation Center Engineer at **MakeMyTrip**](https://in.linkedin.com/in/himanshu-singhal-50b309126) :dart: in 2019. You can **find me on [LinkedIn](https://in.linkedin.com/in/himanshu-singhal-50b309126)**.
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/bunnyyTheFreak) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bunnyyTheFreak)
+
+**Say Hi on Twitter([@bunnyydevil](https://twitter.com/bunnyydevil))!** :heart: 💬
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/bunnyydevil?style=social)](https://twitter.com/bunnyydevil)
 
 <!--
 **bunnyyTheFreak/bunnyyTheFreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
