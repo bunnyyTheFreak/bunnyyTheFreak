@@ -19,6 +19,11 @@ You can **find me on**:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bunnyydevil?style=social)](https://twitter.com/bunnyydevil)
 
+
+![](https://github-readme-stats.vercel.app/api?username=bunnyyTheFreak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
+
+
 <!--
 **bunnyyTheFreak/bunnyyTheFreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
